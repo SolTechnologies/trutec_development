@@ -1,0 +1,82 @@
+/*
+Theme Name: Alhena Child
+Theme URI: https://localhost:8080
+Description: this is a child theme of alhena-lite
+Author: Alex Gutierrez
+Author URI: http://alexgutierrez.tech
+Template: alhena-lite
+Version: 0.1
+*/
+@import url("../alhena-lite/style.css");
+#global{
+    height: 30px;
+    color: #000;
+    background-color: #fff;
+    font-style: italic;
+  
+}
+
+#global ul li{
+    display: inline-block;
+     color: #000!important;
+    font-family: sans-serif;
+}
+
+#global ul{
+    padding: 2px 0 0 0;
+}
+
+#global .offers{
+    
+}
+
+#global .num{
+    
+    float: right;
+}
+#global .num .telNum{
+    font-weight: 700;
+}
+#global .num .hrs{
+    font-size: 10px;
+    padding-left: 10px;
+}
+
+.header{
+    min-height: 50px!important;
+    background: #000!important;
+}
+#mainmenu{
+    min-height: 50px!important;
+}
+
+#logo{
+    line-height: 50px!important;
+    min-height: 50px!important;
+}
+nav#mainmenu{
+    height: 50px!important;
+}
+nav#mainmenu ul{
+    float: left;
+}
+.header-cart{
+    padding: 20px 0!important; 
+}
+nav#mainmenu ul li a{
+    padding: 25px 10px!important;
+    color: #fff!important;
+}
+nav#mainmenu ul li a:hover, nav#mainmenu li:hover > a{
+    color:#ddd;
+}
+
+.cart-contents i{
+    font-size:2em!important;
+}
+.header-cart a.cart-contents{
+    color: rgba(130, 131, 130, .7)!important;
+}
+.header-cart-widget{
+    background: #000!important;
+}

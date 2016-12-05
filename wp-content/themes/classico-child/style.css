@@ -1,0 +1,660 @@
+/*
+ Theme Name:   Classico Child
+ Theme URI:    http://8theme.com/
+ Description:  Classico Child Theme
+ Author:       8theme
+ Author URI:   http://8theme.com
+ Template:     classico
+ Version:      0.0.1
+ Text Domain:  classico-child
+*/
+
+/*Global Styles*/
+ .white-border-right{
+  border-right: 1px solid #fff;
+}
+.white-border-left{
+  border-left: 1px solid #fff;
+}
+.padding-bottom-20{
+  padding-bottom: 20px;
+}
+.padding-top-45{
+ padding-top: 45px;
+}
+.padding-top-20{
+    padding-top: 20px;
+}
+.border-right-1{
+    border-right: 1px solid #ddd;
+}
+.border-bottom-1{
+    border-bottom: 1px solid #ddd;
+}
+
+.total{
+    display: none!important;
+}
+.fixNav-enabled .fixed-active .menu-wrapper .menu > li > a{
+    color: #fff;
+}
+
+/*Header Styles*/
+header{
+ background: #000;
+}
+.header-type-5 .header .navbar{
+ padding: 3px 0;
+}
+.header-type-5 .header .header-logo{
+    width: 100px!important;
+}
+.header-type-5 .header .header-logo img{
+    max-width: 100px;
+}
+.menu-wrapper{
+    float: left;
+    padding-left: 20px;
+}
+
+.top-bar-text{
+    display: inline-block;
+    margin: 3px 0;
+    color: #000;
+}
+
+.popup_link {
+    display: none!important;
+}
+
+.vc_sep_holder_l, .vc_sep_holder_r{
+  background:url("../../uploads/2016/10/dots.png")no-repeat!important;
+  height: 30px!important;
+  background-size: cover !important;
+}
+.separator_heading{
+    margin-top: 3px;
+}
+.vc_separator h4{
+    font-size: 26px!important;
+}
+
+.vc_sep_line{
+ border: 0!important;
+}
+.vc_tta-style-classic .vc_tta-tab.vc_active a span:after{
+    border-bottom:3px solid #34D04B!important;
+    top: 4px;
+}
+
+.menu_home_icn{
+    height: 22px;
+}
+
+.cart-design-2 .shopping-cart-widget .cart-bag:before{
+     display:none;
+}
+.tt_cart{
+    height: 30px;
+    width: 35px;
+}
+
+.cart-design-2 .shopping-cart-widget .cart-bag .badge-number{
+    display: inline;
+    border-radius: 50%;
+}
+
+.fixNav-enabled .fixed-active .cart-design-2.design-white .cart-bag .badge-number{
+    color: #000;
+}
+
+/*Home Banner*/
+
+.hephaistos .tp-bullet{
+    background:#34d04b!important;
+    border-radius: 0!important;
+    border-width: 1px!important;
+    width: 15px;
+    height: 15px;
+}
+.tp-bullets{
+     top: 85%!important;
+    left: 12.2%!important;
+}
+.wpb_content_element{
+    margin-bottom: 0!important;
+}
+
+.slider_box_2_text{
+    font-size:16px;
+}
+.slider_box_2_heading{
+    padding: 5px 0;
+}
+
+/*products section*/
+#home_products{
+    margin-bottom: 20px;
+}
+#home_products .product_box_1, #home_products .product_box_2{
+    margin: 10px 0 20px 0;
+}
+#home_products .product_box{
+    padding: 10px;
+    border: 1px solid #333;
+    height: 325px;
+}
+#home_products .product_box h2{
+    border-bottom: 2px solid #34D04B;
+}
+#home_products .product_box .product_img_box{
+    width: 50%;
+    float:left;
+}
+#home_products .product_box .product_img_box img{
+    width: 100%;
+    height 100%;
+}
+#home_products .product_box .product_description_box{
+    float: left;
+    width: 50%;
+    font-size: 1.5em;
+}
+#home_products .product_box .product_description_box .og_price{
+    text-decoration: line-through;
+}
+#home_products .product_box .product_description_box .new_price{
+    font-size: 2em;
+    color: lightblue;
+}
+#home_products .product_box .btn{
+        border: 0;
+    position: absolute;
+    bottom: 2px;
+    right: 8px;
+    width: 50%;
+    background: #000;
+}
+#home_products .product_box .btn a{
+    font-size: 2em;
+    font-weight: 600;
+    color: #fff;
+}
+
+
+/*Product Styles*/
+#product_tabs{
+ margin-left: -150px!important;
+    margin-right: -150px!important;
+    background: #eee;
+}
+
+#product_tabs .vc_tta-container{
+ margin-left: 150px!important;
+ margin-right: 150px!important;
+}
+
+#product_tabs .vc_tta-panels{
+ background:inherit!important;
+}
+#product_tabs ul{
+ padding-left: 25px!important;
+}
+#product_tabs ul li{
+ list-style-type: disc!important;
+}
+#product_tabs .vc_tta-title-text{
+    font-family: 'Lato', sans-serif;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+}
+
+/*About Section*/
+#about_us{
+    padding: 30px 0;
+}
+
+
+/*Services Section*/
+#services{
+ background: #323539;
+}
+#services .services-row1, #services .services-row2{
+ margin-top: 20px;
+ margin-bottom: 10px;
+}
+#services .vc_sep_holder_l, #services .vc_sep_holder_r{
+  background:url("../../uploads/2016/10/TruTec_HEADER-WHITE-PTRN-1024x17.png")no-repeat!important;
+  height: 13px!important;
+  background-size: cover !important;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 2px;
+}
+
+#services .col-md-4{
+ padding-left: 10px;
+ padding-right: 10px;
+}
+
+#services .service-box{
+  padding: 20px 5px;
+  border: 1px solid #fff;
+  border-radius: 15px;
+  color: #fff;
+}
+
+#services .icon-box{
+  height: 35px;
+  width: 35px;
+  margin: 0 auto;
+}
+
+#services .icon-box  i{
+  font-size: 2.5em;
+}
+
+#services .title h4{
+ color: #fff;
+  text-align: center;
+}
+
+#services .service-separator{
+  height: 3px;
+    background: #34d04b;
+    width: 80%;
+    margin: 5px auto;
+}
+
+#services .service-text{
+  text-align: center;
+}
+/*Styles for the Trutec Standard Section*/
+#trutec_standard .separator{
+  background:url("../../uploads/2016/10/TruTec_HEADER-WHITE-PTRN-1024x17.png")no-repeat!important;
+  height: 15px!important;
+  background-size: cover !important;
+}
+
+#trutec_standard .vc_column-inner {
+ padding: 0;
+}
+#trutec_standard .vc_sep_holder_l, #trutec_standard .vc_sep_holder_r{
+  background:url("../../uploads/2016/10/TruTec_HEADER-WHITE-PTRN-600x20.png")no-repeat!important;
+  height: 30px!important;
+  background-size: cover !important;
+  margin-top: 1px;
+}
+
+#trutec_standard h4{
+ color: #fff;
+}
+
+#trutec_standard .product_rating_img_1{
+  width: 115px;
+  height: 115px;
+  margin: 0 auto;
+}
+
+#trutec_standard .product_rating_img_2{
+  width: 175px;
+  height: 175px;
+  margin: 0 auto;
+  position: relative;
+  top: -20px;
+}
+#trutec_standard .product_rating_img_3{
+  width: 135px;
+  height: 115px;
+  margin: 0 auto;
+}
+
+#trutec_standard .product_rating_img_1 img,
+#trutec_standard .product_rating_img_2 img,
+#trutec_standard .product_rating_img_3 img{
+  height: 100%;
+  width: 100%;
+}
+
+#trutec_standard .product_desc{
+  padding: 20px 0;
+  text-align: center;
+  font-size: 1.5em;
+  color: #fff;
+}
+
+#trutec_standard .separator{
+  margin: 2px 0;
+}
+
+#trutec_standard .col-md-6{
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+/*Footer Styles*/
+footer{
+    padding: 30px 0;
+    margin: 0!important;
+}
+#footer_groups .footer_1, 
+#footer_groups .footer_2,
+#footer_groups .footer_3{
+    width: 40%;
+    margin: 0 auto;
+}
+
+#footer_groups .title{
+    color: #fff;
+    padding: 5px 0;
+    font-size: 1.2em;
+}
+#footer_groups ul{
+    padding: 5px 0;
+}
+#footer_groups ul li a{
+    color: #fff;
+}
+
+#footer_groups .card_list {
+   text-align: center;
+}
+#footer_groups .card_list img{
+   width: 150px;
+}
+footer .copyright .footer-separator{
+    border-bottom: 5px solid #34D04B;
+    padding: 2px 0;
+}
+footer .copyright-text{
+    padding: 20px 0;
+    text-align: center;
+    color: #fff;
+}
+footer .logo{
+    text-align: center;
+}
+footer .logo img{
+    width: 100px;
+    height: auto;
+}
+footer .footer_separator{
+    background: url("https://trutec-development-alexgutech.c9users.io/wp-content/uploads/2016/10/footer_separator.png")no-repeat!important;
+    background-size: cover;
+    width: 100%;
+    height: 5px;
+}
+
+/*Woocommerce checkout section*/
+
+.rmv{
+    display: none!important;
+}
+
+#woocommerce_chkout .col-1{
+    width: 100%;
+     background-color: rgba(225, 225, 225, 0.3);
+    padding: 20px;
+}
+
+#woocommerce_chkout .chkout_form{
+    background-color: rgba(225, 225, 225, 0.3);
+    padding: 20px;
+}
+
+#woocommerce_chkout .step-title{
+    border-bottom: 2px solid #34D04B;
+    padding-bottom: 5px!important;
+}
+
+#woocommerce_chkout .col-1 p{
+    margin-bottom: 5px!important;
+}
+#woocommerce_chkout .col-1 input{
+    height: 30px!important;
+}
+
+#woocommerce_chkout .col-1 .select2-container .select2-choice{
+    height: 30px!important;
+    line-height: 30px!important;
+}
+
+#woocommerce_chkout #billing_company_field{
+    display: none;
+}
+
+#woocommerce_chkout .chkout_form .place-order input{
+    background-color: #34D04B!important;
+}
+
+#woocommerce_chkout .chkout_form .order-review th{
+    padding: 10px 0 5px 0 !important;
+}
+
+#woocommerce_chkout .chkout_form table.shop_table td.product-name{
+    width: 325px!important;
+}
+
+.chkout_separator{
+  background:url("../../uploads/2016/10/TruTec_HEADER-GRAY-PTRN-1024x17.png")no-repeat!important;
+  height: 15px!important;
+  background-size: cover !important;
+  margin: 20px -10px 20px 0;
+}
+
+.secure_chkout{
+    height: 50px;
+}
+.secure_chkout .schk_img, .secure_chkout .secure_text{
+  float:left;
+}
+.secure_chkout .secure_text a{
+  color: #34D04B;
+}
+
+.secure_chkout .secure_text h3{
+  margin: 0;
+}
+
+.schk_img{
+  height: 45px;
+  padding-right: 10px;
+}
+
+.schk_img img{
+  height: 100%;
+}
+
+
+/*Single Product Page Styles*/
+.breadcrumbs-type-9 .page-content{
+    padding-top: 0!important;
+}
+#single_product_info{
+    background: #ddd!important;
+}
+
+#single_product_info table{
+    width: 50%!important;
+    float: left!important;
+}
+
+.single_product_heading{
+    text-align: center;
+    padding: 15px 0;
+    color: #000;
+}
+.single_product_heading strong{
+    padding-right: 5px;
+}
+.single_product_heading .fslash{
+    padding: 0 10px;
+}
+
+.product .price{
+    display: none;
+}
+
+.rdo-btn{
+    display: inline-block;
+}
+.rdo-btn label{
+    padding: 0 10px;
+}
+
+.variations_product_size{
+    width: 45%;
+    float: right;
+}
+.variations_product_size .label{
+    width: 100%;
+    border-radius: 0;
+    display: inline-block;
+    border-bottom: 2px solid  #34D04B;
+}
+.variations_product_color{
+    float: left;
+    width: 45%;
+}
+
+.variations_product_color .label{
+    width: 100%;
+    border-radius: 0;
+    display: inline-block;
+    border-bottom: 2px solid  #34D04B;
+}
+
+.label label{
+    color: #000;
+    font-size: 2em;
+    text-transform: uppercase!important;
+}
+.variations_product_color .label label::before{
+    content: '1. SELECT ';
+}
+
+.variations_product_size .label label::before{
+    content: '2. SELECT ';
+}
+
+.single_variation_wrap{
+    width: 50%;
+    float: left;
+    padding: 0 30px;
+}
+
+
+#single_product_info .in-stock{
+    display: none;
+}
+
+.single_product_order{
+    height: 34px;
+    font-size: 1.5em;
+    border-bottom: 2px solid #34D04B;
+    width: 50%;
+    color: #000;
+    text-align:center;
+}
+.woocommerce-variation-add-to-cart{
+    padding: 10px 0;
+}
+.woocommerce-variation-add-to-cart .single_add_to_cart_button{
+    height: 40px;
+    margin: 0 10px;
+}
+
+.yith-wcwl-add-to-wishlist, .email-link, .product_meta{
+    display: none;
+}
+.product_review button{
+    margin: 0 20px;
+}
+.product_review{
+    text-align: center;
+}
+.product_single_details{
+    padding: 20px 0;
+}
+
+.product_single_details .table>tbody>tr>td{
+    padding: 15px;
+    text-align: center;
+}
+
+.sxy-zoom-container .sxy-zoom-viewport img{
+    display: none;
+}
+.product_single_price{
+    text-align: center;
+}
+
+.product_single_price button, .product_single_price button:hover{
+    background:  #34D04B;
+}
+
+/*Media Queries*/
+@media only screen and (max-width: 991px) {
+    .cart-design-2 .shopping-cart-widget .cart-bag .badge-number{
+        color: #000!important;
+    }
+      #services .service-box{
+        margin: 15px 0;
+    }
+    
+    #trutec_standard .product_rating_img_2{
+        margin: 40px auto 10px auto;
+    }
+    #trutec_standard .white-border-right{
+        border-right: 0;
+        border-bottom: 1px solid #fff;
+        width: 95%!important;
+        margin: 0 auto;
+    }
+    #trutec_standard .white-border-left{
+        border-left: 0;
+    }
+    #woocommerce_chkout .col-1{
+        margin-bottom: 20px;
+    }
+    #home_products .product_box .product_description_box{
+        font-size:1em;
+    }
+    #home_products .product_box .btn{
+        position: inherit;
+    }
+    #home_products .product_box .btn a{
+        font-size:1em;
+    }
+    
+}
+
+@media only screen and (max-width: 768px) {
+    #services .vc_sep_holder_l, #services .vc_sep_holder_r{
+        display: none;
+    }
+    #single_product_info table{
+        width: 100%!important;
+    }
+    .variations_product_size, .variations_product_color{
+        width: 100%;
+    }
+    .single_variation_wrap{
+        width: 100%;
+        padding: 0;
+    }
+    .single_product_order{
+        width: 100%;
+    }
+    
+}
+
+@media only screen and (max-width: 500px){
+    .top-bar{
+        display: none;
+    }
+    #footer_groups .footer_1, #footer_groups .footer_2, #footer_groups .footer_3{
+        width: 65%;
+    }
+}

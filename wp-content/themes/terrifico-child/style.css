@@ -1,0 +1,60 @@
+/*
+Theme Name: Terrifico Child
+Theme URI: https://localhost:8080
+Description: this is a child theme of terrifico
+Author: Alex Gutierrez
+Author URI: http://alexgutierrez.tech
+Template: terrifico
+Version: 0.1
+*/
+@import url("../terrifico/style.css");
+
+/*Header Styles*/
+#header-holder{
+    padding: 1px 0;
+}
+
+.nav-bar{
+    display: inline!important;
+}
+
+.nav-bar ul{
+    float: left!important;
+    padding-top: 5px!important;
+}
+
+.top-phone i, .top-email i{
+    display: none;
+}
+
+.top-phone{
+    font-style: italic;
+}
+
+.top-email:before{
+    content: '(888) 555-5555  ';
+    color: #000;
+    font-weight: 700;
+    font-style: italic;
+}
+.top-email:after{
+    content: '(24 HOURS / 7 DAYS A WEEK)';
+    color: #000;
+    font-style: italic; 
+    font-size: 10px;
+}
+
+.top-email{
+    display: block;
+    position: absolute;
+    right: 0px;
+    top: 25%;
+}
+
+#navbar ul li a{
+    color: #fff!important;
+}
+
+#navbar ul li a:hover, #navbar ul li a:active{
+    color: #ddd!important;
+}

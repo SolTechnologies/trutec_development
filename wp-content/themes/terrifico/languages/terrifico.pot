@@ -1,0 +1,1169 @@
+# This file is distrubuted under the GPL-2.0+
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Terrifico 1.8.0.1\n"
+"POT-Creation-Date: 2016-10-15 12:17-0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Vitaly Pinchev <info@vpthemes.com>\n"
+"Language-Team: Vitaly Pinchev <info@vpthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "Error 404 - Page not found!"
+msgstr ""
+
+#: 404.php:14
+msgid "Sorry! It seems that the page you are looking for is not here."
+msgstr ""
+
+#: breadcrumbs.php:12
+msgid "Home"
+msgstr ""
+
+#: breadcrumbs.php:38 title-section.php:18
+msgid "Tag: "
+msgstr ""
+
+#: breadcrumbs.php:40 breadcrumbs.php:41 breadcrumbs.php:42
+#: title-section.php:21 title-section.php:24 title-section.php:27
+msgid "Archive for "
+msgstr ""
+
+#: breadcrumbs.php:43 title-section.php:30
+msgid "Author: "
+msgstr ""
+
+#: breadcrumbs.php:44 title-section.php:33
+msgid "Blog Archives "
+msgstr ""
+
+#: breadcrumbs.php:45 title-section.php:36
+msgid "Search Results "
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:32 comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33 comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34 comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found!"
+msgstr ""
+
+#: content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-single.php:34 page-fullwidth.php:40 page-left-sidebar.php:40
+#: page-right-sidebar.php:40 page.php:40
+msgid "Tags:"
+msgstr ""
+
+#: content-single.php:36 image.php:29 page-fullwidth.php:42
+#: page-left-sidebar.php:42 page-right-sidebar.php:42 page.php:42
+msgid "Pages:"
+msgstr ""
+
+#: contentboxes-section.php:20 contentboxes-section.php:28
+#: contentboxes-section.php:36
+#, fuzzy
+msgid "Read More"
+msgstr "Подробнее"
+
+#: copyright.php:10
+msgid "Terrifico Theme"
+msgstr ""
+
+#: copyright.php:10
+msgid "http://vpthemes.com/terrifico/"
+msgstr ""
+
+#: copyright.php:10
+msgid " powered by "
+msgstr ""
+
+#: copyright.php:10
+msgid "WordPress"
+msgstr ""
+
+#: copyright.php:10
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: features-section.php:23 features-section.php:28 features-section.php:52
+#: features-section.php:57 features-section.php:81 features-section.php:86
+#: features-section.php:110 features-section.php:115
+msgid "Featured Image"
+msgstr ""
+
+#: fromblog-section.php:33 functions/terrifico-customizer.php:71
+#: functions/terrifico-image-sliders.php:28
+#: functions/terrifico-image-sliders.php:35
+#: functions/terrifico-image-sliders.php:37 post-formats.php:25
+msgid "Slide"
+msgstr ""
+
+#: functions/terrifico-customizer.php:28
+msgid "If you like my work. Buy me a coffee."
+msgstr ""
+
+#: functions/terrifico-customizer.php:38
+msgid "Theme Support"
+msgstr ""
+
+#: functions/terrifico-customizer.php:39
+msgid "View Theme Demo"
+msgstr ""
+
+#: functions/terrifico-customizer.php:40
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: functions/terrifico-customizer.php:48
+msgid "Open Sans"
+msgstr ""
+
+#: functions/terrifico-customizer.php:49
+msgid "Roboto"
+msgstr ""
+
+#: functions/terrifico-customizer.php:68
+msgid "Ideal Image Slider"
+msgstr ""
+
+#: functions/terrifico-customizer.php:68
+msgid "Unslider"
+msgstr ""
+
+#: functions/terrifico-customizer.php:71
+msgid "Fade"
+msgstr ""
+
+#: functions/terrifico-customizer.php:74
+msgid "No Sidebars"
+msgstr ""
+
+#: functions/terrifico-customizer.php:74
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions/terrifico-customizer.php:74
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions/terrifico-customizer.php:77
+msgid "Excerpt"
+msgstr ""
+
+#: functions/terrifico-customizer.php:77
+msgid "Full Content"
+msgstr ""
+
+#: functions/terrifico-customizer.php:81 functions/terrifico-customizer.php:89
+msgid "Disable"
+msgstr ""
+
+#: functions/terrifico-customizer.php:82 functions/terrifico-functions.php:162
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/terrifico-customizer.php:83
+msgid "Below Content"
+msgstr ""
+
+#: functions/terrifico-customizer.php:90
+msgid "Above Content"
+msgstr ""
+
+#: functions/terrifico-customizer.php:108
+msgid "Terrifico Theme Options"
+msgstr ""
+
+#: functions/terrifico-customizer.php:115
+msgid "Theme Information"
+msgstr ""
+
+#: functions/terrifico-customizer.php:128
+msgid " "
+msgstr ""
+
+#: functions/terrifico-customizer.php:137
+msgid "General Settings"
+msgstr ""
+
+#: functions/terrifico-customizer.php:150
+msgid "Theme Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:164
+msgid "Display Breadcrumbs"
+msgstr ""
+
+#: functions/terrifico-customizer.php:178
+msgid "Enable Animation"
+msgstr ""
+
+#: functions/terrifico-customizer.php:192
+msgid "Enable Resposive Design"
+msgstr ""
+
+#: functions/terrifico-customizer.php:206
+msgid "Enable Scrollup"
+msgstr ""
+
+#: functions/terrifico-customizer.php:219
+msgid "ScrollUp Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:232
+msgid "ScrollUp Hover Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:242
+msgid "Logo Settings"
+msgstr ""
+
+#: functions/terrifico-customizer.php:245
+msgid ""
+"To upload custom logo image - go to Appearance > Customize > Site Identity"
+msgstr ""
+
+#: functions/terrifico-customizer.php:257
+msgid "Logo Width (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:271
+msgid "Logo Height (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:285
+msgid "Logo Top Margin (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:299
+msgid "Logo Left Margin (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:313
+msgid "Logo Bottom Margin (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:327
+msgid "Logo Right Margin (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:341
+msgid "Logo ALT Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:355
+msgid "Logo Uppercase"
+msgstr ""
+
+#: functions/terrifico-customizer.php:370
+msgid "Select logo font family"
+msgstr ""
+
+#: functions/terrifico-customizer.php:385
+msgid "Logo Font Size (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:399
+msgid "Logo Font Weight"
+msgstr ""
+
+#: functions/terrifico-customizer.php:412
+msgid "Logo Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:426
+msgid "Display Tagline Underneath Logo"
+msgstr ""
+
+#: functions/terrifico-customizer.php:440
+msgid "Tagline Font Size (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:453
+msgid "Tagline Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:467
+msgid "Tagline Uppercase"
+msgstr ""
+
+#: functions/terrifico-customizer.php:476
+msgid "Navigation Settings"
+msgstr ""
+
+#: functions/terrifico-customizer.php:490
+msgid "Sticky Menu"
+msgstr ""
+
+#: functions/terrifico-customizer.php:504
+msgid "Menu Top Margin (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:519
+msgid "Select Menu Font Family"
+msgstr ""
+
+#: functions/terrifico-customizer.php:534
+msgid "Menu Font Size (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:548
+msgid "Menu Uppercase"
+msgstr ""
+
+#: functions/terrifico-customizer.php:561
+msgid "Navigation Menu Font Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:574
+msgid "Navigation Menu Border Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:587
+msgid "Navigation Menu Background Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:600
+msgid "SubMenu Background Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:613
+msgid "Menu Hover Font Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:626
+msgid "Menu Background Hover Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:639
+msgid "Selected Menu Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:647
+msgid "Typography Settings"
+msgstr ""
+
+#: functions/terrifico-customizer.php:662
+msgid "Select Body Font Family"
+msgstr ""
+
+#: functions/terrifico-customizer.php:677
+msgid "Body Font Size (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:690
+msgid "Body Font Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:698
+msgid "Header Settings"
+msgstr ""
+
+#: functions/terrifico-customizer.php:711
+msgid "Header Background Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:725
+msgid "Header Background Color Opacity"
+msgstr ""
+
+#: functions/terrifico-customizer.php:741
+msgid "Display Top Header Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:755
+msgid "Address"
+msgstr ""
+
+#: functions/terrifico-customizer.php:769
+msgid "Phone Number"
+msgstr ""
+
+#: functions/terrifico-customizer.php:783
+msgid "Email"
+msgstr ""
+
+#: functions/terrifico-customizer.php:796
+#: functions/terrifico-customizer.php:1510
+msgid "Top Section Font Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:809
+msgid "Top Section Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:823
+#: functions/terrifico-customizer.php:985
+msgid "Display Social Links"
+msgstr ""
+
+#: functions/terrifico-customizer.php:831
+msgid "Home Page Settings"
+msgstr ""
+
+#: functions/terrifico-customizer.php:845
+msgid "Enable Image Slider"
+msgstr ""
+
+#: functions/terrifico-customizer.php:859
+msgid "Display Get Started Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:873
+msgid "Display Features Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:887
+msgid "Display About Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:901
+msgid "Display Services Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:915
+msgid "Display Call To Action Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:929
+msgid "Display Content Boxes Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:943
+msgid "Display Get In Touch Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:957
+msgid "Display Latest News Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:971
+msgid "Display Blog Posts"
+msgstr ""
+
+#: functions/terrifico-customizer.php:993
+msgid "Image Slider Settings"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1007
+msgid "Default Image Slider"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1023
+msgid "Image Slider Height (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1037
+msgid "Image Slider Category"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1053
+msgid "Slideshow Interval"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1056
+msgid "1000 = 1 second, default value: 5000"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1068
+msgid "Animation Speed"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1071
+msgid "1000 = 1 second, default value: 800"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1083
+msgid "Number of Slides"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1097
+msgid "Image Slider Effect"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1102
+msgid "Can be only used with Ideal Image Slider"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1114
+msgid "Enable Slider Captions"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1128
+msgid "Caption Position Top (px)"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1142
+msgid "Caption Width %"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1156
+msgid "Caption Title Font Size px"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1170
+msgid "Caption Text Font Size px"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1184
+msgid "Enable Captions Background"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1197
+msgid "Captions Background Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1211
+msgid "Captions Background Color Opacity"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1226
+msgid "Caption Title Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1239
+msgid "Captions Text Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1252
+msgid "Captions Button Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1255
+#: functions/terrifico-customizer.php:1270
+#: functions/terrifico-customizer.php:1285
+#: functions/terrifico-customizer.php:1300
+msgid "Can be only used with Unslider Image Slider"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1267
+msgid "Enable Captions Button"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1282
+msgid "Captions Button Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1297
+msgid "Enable Slider Dots"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1306
+msgid "Footer Settings"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1319
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1332
+msgid "Copyright Section Background Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1345
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1358
+msgid "Footer Widget Title Border Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1371
+msgid "Footer Widget Text Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1384
+msgid "Footer Widget Text Border Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1397
+msgid "Footer Social Icons Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1411
+msgid "Enable Footer Widgets"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1425
+msgid "Copyright Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1433
+msgid "Layout Settings"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1448
+msgid "Theme Layout"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1457
+msgid "Blog Settings"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1470
+#: functions/terrifico-customizer.php:1636
+#: functions/terrifico-customizer.php:1752
+#: functions/terrifico-customizer.php:2125
+#: functions/terrifico-customizer.php:2214
+#: functions/terrifico-customizer.php:2489
+#: functions/terrifico-customizer.php:2606
+#: functions/terrifico-customizer.php:2838
+#: functions/terrifico-customizer.php:2968
+#: functions/terrifico-customizer.php:3087
+msgid "Background Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1484
+#: functions/terrifico-customizer.php:1766
+#: functions/terrifico-customizer.php:2139
+#: functions/terrifico-customizer.php:2228
+#: functions/terrifico-customizer.php:2503
+#: functions/terrifico-customizer.php:2620
+#: functions/terrifico-customizer.php:2852
+#: functions/terrifico-customizer.php:2982
+#: functions/terrifico-customizer.php:3101
+msgid "Background Image"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1497
+msgid "Top Section Background Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1524
+msgid "Top Section Image"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1540
+msgid "Blog Content"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1555
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1569
+msgid "Use Simple Pagination"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1584
+msgid "Post Navigation Links"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1600
+msgid "Post Info Position"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1615
+msgid "Featured Image Inside the Post"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1623
+msgid "Get Started Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1649
+#: functions/terrifico-customizer.php:1779
+#: functions/terrifico-customizer.php:2152
+#: functions/terrifico-customizer.php:2241
+#: functions/terrifico-customizer.php:2865
+#: functions/terrifico-customizer.php:3039
+msgid "Title Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1663
+#: functions/terrifico-customizer.php:1806
+#: functions/terrifico-customizer.php:2166
+#: functions/terrifico-customizer.php:2879
+#: functions/terrifico-customizer.php:3026
+msgid "Title Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1676
+#: functions/terrifico-customizer.php:1717
+#: functions/terrifico-customizer.php:2892
+msgid "Subtitle Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1690
+#: functions/terrifico-customizer.php:2906
+msgid "Subtitle Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1704
+#: functions/terrifico-customizer.php:2571
+#: functions/terrifico-customizer.php:2920
+msgid "Button Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1731
+#: functions/terrifico-customizer.php:2585
+#: functions/terrifico-customizer.php:2947
+msgid "Button URL"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1739
+msgid "Features Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1792
+#: functions/terrifico-customizer.php:2179
+#: functions/terrifico-customizer.php:2646
+msgid "Text Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1820
+#: functions/terrifico-customizer.php:2282
+msgid "Description Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1834
+msgid "Feature #1 Title"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1848
+msgid "Feature #1 Description"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1862
+msgid "Feature #1 Icon"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1865
+#: functions/terrifico-customizer.php:1936
+#: functions/terrifico-customizer.php:2007
+#: functions/terrifico-customizer.php:2078
+#: functions/terrifico-customizer.php:2341
+#: functions/terrifico-customizer.php:2384
+#: functions/terrifico-customizer.php:2427
+#: functions/terrifico-customizer.php:2470
+#: functions/terrifico-customizer.php:2691
+#: functions/terrifico-customizer.php:2748
+#: functions/terrifico-customizer.php:2805
+#, php-format
+msgid ""
+"Enter Font Awesome icon name. For icon name refer to: <a href=\"%1$s\" "
+"target=\"_blank\">Font Awesome Website</a>"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1877
+msgid "Feature #1 Image"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1891
+msgid "Feature #1 URL"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1905
+msgid "Feature #2 Title"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1919
+msgid "Feature #2 Description"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1933
+msgid "Feature #2 Icon"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1948
+msgid "Feature #2 Image"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1962
+msgid "Feature #2 URL"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1976
+msgid "Feature #3 Title"
+msgstr ""
+
+#: functions/terrifico-customizer.php:1990
+msgid "Feature #3 Description"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2004
+msgid "Feature #3 Icon"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2019
+msgid "Feature #3 Image"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2033
+msgid "Feature #3 URL"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2047
+msgid "Feature #4 Title"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2061
+msgid "Feature #4 Description"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2075
+msgid "Feature #4 Icon"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2090
+msgid "Feature #4 Image"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2104
+msgid "Feature #4 URL"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2112
+msgid "About Us Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2193
+#: functions/terrifico-customizer.php:2268
+msgid "Section Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2201
+msgid "Services Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2254
+msgid "Section Text Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2296
+msgid "Section Image"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2310
+msgid "Service #1 Title"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2324
+msgid "Service #1 Description"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2338
+msgid "Service #1 Icon"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2353
+msgid "Service #2 Title"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2367
+msgid "Service #2 Description"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2381
+msgid "Service #2 Icon"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2396
+msgid "Service #3 Title"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2410
+msgid "Service #3 Description"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2424
+msgid "Service #3 Icon"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2439
+msgid "Service #4 Title"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2453
+msgid "Service #4 Description"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2467
+msgid "Service #4 Icon"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2476
+msgid "Call To Action Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2517
+msgid "Small Header Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2530
+msgid "Small Header Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2544
+msgid "Big Header Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2557
+msgid "Big Header Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2593
+msgid "Content Boxes Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2633
+msgid "Titles Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2660
+msgid "First Column Header"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2674
+msgid "First Column Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2688
+msgid "First Column Image"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2703
+msgid "First Column URL"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2717
+msgid "Second Column Header"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2731
+msgid "Second Column Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2745
+msgid "Second Column Image"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2760
+msgid "Second Column URL"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2774
+msgid "Third Column Header"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2788
+msgid "Third Column Text"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2802
+msgid "Third Column Image"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2817
+msgid "Third Column URL"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2825
+msgid "Get In Touch Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2933
+msgid "Button Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2955
+msgid "Latest News Section"
+msgstr ""
+
+#: functions/terrifico-customizer.php:2996
+msgid "Latest News Category"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3012
+msgid "Number of Posts"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3052
+msgid "Post Title Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3065
+msgid "Post Meta Color"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3073
+msgid "Social Links"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3076
+msgid "Enter your profile URL. To remove it, just leave it blank"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3115 social-header.php:11
+#: social-section.php:16
+msgid "Facebook"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3129 social-header.php:16
+#: social-section.php:19
+msgid "Twitter"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3143
+msgid "Google Plus"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3157 social-header.php:26
+#: social-section.php:25
+msgid "LinkedIn"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3171 social-header.php:31
+#: social-section.php:28
+msgid "Instagram"
+msgstr ""
+
+#: functions/terrifico-customizer.php:3185 social-section.php:31
+msgid "Vimeo"
+msgstr ""
+
+#: functions/terrifico-functions.php:45
+msgid "Primary Menu"
+msgstr ""
+
+#: functions/terrifico-functions.php:171
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions/terrifico-functions.php:180
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions/terrifico-functions.php:189
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions/terrifico-functions.php:198
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions/terrifico-functions.php:240
+msgid "&larr; Previous"
+msgstr ""
+
+#: functions/terrifico-functions.php:241
+msgid "Next &rarr;"
+msgstr ""
+
+#: header.php:44
+msgid "Toggle navigation"
+msgstr ""
+
+#: image.php:36 post-nav.php:8
+msgid "Next"
+msgstr ""
+
+#: image.php:36 image.php:37 post-info.php:8
+msgid "Image"
+msgstr ""
+
+#: image.php:37 post-nav.php:9
+msgid "Previous"
+msgstr ""
+
+#: owlpost-info.php:7 post-info.php:21
+msgid "by "
+msgstr ""
+
+#: post-formats.php:37 post-formats.php:60
+msgid "Continue Reading..."
+msgstr ""
+
+#: post-info.php:10
+msgid "Gallery"
+msgstr ""
+
+#: post-info.php:12
+msgid "Video"
+msgstr ""
+
+#: post-info.php:14
+msgid "Aside"
+msgstr ""
+
+#: post-info.php:16
+msgid "Audio"
+msgstr ""
+
+#: post-info.php:18
+msgid "Standard"
+msgstr ""
+
+#: post-info.php:25 post-meta.php:11
+msgid "No Comments"
+msgstr ""
+
+#: post-info.php:25 post-meta.php:11
+msgid "1 Comment"
+msgstr ""
+
+#: post-info.php:25 post-meta.php:11
+msgid "% Comments"
+msgstr ""
+
+#: post-meta.php:13
+msgid "More"
+msgstr ""
+
+#: services-section.php:51
+msgid "Services"
+msgstr ""
+
+#: sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:21
+msgid "Meta"
+msgstr ""
+
+#: social-header.php:21 social-section.php:22
+msgid "Google+"
+msgstr ""
+
+#: title-section.php:39
+msgid "Blog Posts "
+msgstr ""

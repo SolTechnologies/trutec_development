@@ -1,0 +1,1174 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WIP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-11 22:17+0200\n"
+"PO-Revision-Date: 2015-09-12 17:44+0100\n"
+"Last-Translator: Alessandro Vellutini <vellutini@hotmail.it>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12 search.php:43
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:15 layouts/category-default.php:37 layouts/home-default.php:37
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: comments.php:5 core/templates/post-info.php:24
+msgid "No comments"
+msgstr ""
+
+#: comments.php:5 core/templates/post-info.php:24
+msgid "comment"
+msgstr ""
+
+#: comments.php:5 core/templates/post-info.php:24
+msgid "comments"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "<cite>%s</cite>"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:35
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:41
+msgid "Your comment is awaiting approval."
+msgstr ""
+
+#: comments.php:57
+msgid "&laquo;"
+msgstr ""
+
+#: comments.php:58
+msgid "&raquo;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comment"
+msgstr ""
+
+#: core/admin/customize/customize.php:13 core/classes/customize.php:302
+msgid "Get support"
+msgstr ""
+
+#: core/admin/customize/customize.php:25
+msgid "Full Image Background"
+msgstr ""
+
+#: core/admin/customize/customize.php:26
+msgid ""
+"Do you want to set a full background image? (After the upload, check "
+"'Fixed', from the Background Attachment section)"
+msgstr ""
+
+#: core/admin/customize/customize.php:31
+#: core/admin/customize/customize.php:194
+#: core/admin/customize/customize.php:474
+msgid "No"
+msgstr ""
+
+#: core/admin/customize/customize.php:32
+#: core/admin/customize/customize.php:195
+#: core/admin/customize/customize.php:475
+msgid "Yes"
+msgstr ""
+
+#: core/admin/customize/customize.php:43 core/admin/customize/customize.php:44
+msgid "General"
+msgstr ""
+
+#: core/admin/customize/customize.php:53
+msgid "Load system"
+msgstr ""
+
+#: core/admin/customize/customize.php:63
+msgid "Choose a load system"
+msgstr ""
+
+#: core/admin/customize/customize.php:64
+msgid ""
+"Select a load system, if you've some problems with the theme (for example a "
+"blank page)."
+msgstr ""
+
+#: core/admin/customize/customize.php:69
+msgid "Mode a"
+msgstr ""
+
+#: core/admin/customize/customize.php:70
+msgid "Mode b"
+msgstr ""
+
+#: core/admin/customize/customize.php:81
+msgid "Color Scheme"
+msgstr ""
+
+#: core/admin/customize/customize.php:91
+msgid "Predefined Color Schemes"
+msgstr ""
+
+#: core/admin/customize/customize.php:92
+msgid "Choose your Color Scheme"
+msgstr ""
+
+#: core/admin/customize/customize.php:98
+msgid "Light&Orange"
+msgstr ""
+
+#: core/admin/customize/customize.php:99
+msgid "Light&Turquoise"
+msgstr ""
+
+#: core/admin/customize/customize.php:100
+msgid "Light&Blue"
+msgstr ""
+
+#: core/admin/customize/customize.php:101
+msgid "Light&Red"
+msgstr ""
+
+#: core/admin/customize/customize.php:102
+msgid "Light&Pink"
+msgstr ""
+
+#: core/admin/customize/customize.php:103
+msgid "Light&Purple"
+msgstr ""
+
+#: core/admin/customize/customize.php:104
+msgid "Light&Yellow"
+msgstr ""
+
+#: core/admin/customize/customize.php:105
+msgid "Light&Green"
+msgstr ""
+
+#: core/admin/customize/customize.php:106
+msgid "Orange"
+msgstr ""
+
+#: core/admin/customize/customize.php:107
+msgid "Turquoise"
+msgstr ""
+
+#: core/admin/customize/customize.php:108
+msgid "Blue"
+msgstr ""
+
+#: core/admin/customize/customize.php:109
+msgid "Red"
+msgstr ""
+
+#: core/admin/customize/customize.php:110
+msgid "Pink"
+msgstr ""
+
+#: core/admin/customize/customize.php:111
+msgid "Purple"
+msgstr ""
+
+#: core/admin/customize/customize.php:112
+msgid "Yellow"
+msgstr ""
+
+#: core/admin/customize/customize.php:113
+msgid "Green"
+msgstr ""
+
+#: core/admin/customize/customize.php:114
+msgid "Dark&Orange"
+msgstr ""
+
+#: core/admin/customize/customize.php:115
+msgid "Dark&Turquoise"
+msgstr ""
+
+#: core/admin/customize/customize.php:116
+msgid "Dark&Blue"
+msgstr ""
+
+#: core/admin/customize/customize.php:117
+msgid "Dark&Red"
+msgstr ""
+
+#: core/admin/customize/customize.php:118
+msgid "Dark&Pink"
+msgstr ""
+
+#: core/admin/customize/customize.php:119
+msgid "Dark&Purple"
+msgstr ""
+
+#: core/admin/customize/customize.php:120
+msgid "Dark&Yellow"
+msgstr ""
+
+#: core/admin/customize/customize.php:121
+msgid "Dark&Green"
+msgstr ""
+
+#: core/admin/customize/customize.php:133
+msgid "Page width"
+msgstr ""
+
+#: core/admin/customize/customize.php:143
+msgid "Screen greater than 768px"
+msgstr ""
+
+#: core/admin/customize/customize.php:144
+msgid ""
+"Set a width, for a screen greater than 768 pixel (for example 750 and not "
+"750px ) "
+msgstr ""
+
+#: core/admin/customize/customize.php:154
+msgid "Screen greater than 992px"
+msgstr ""
+
+#: core/admin/customize/customize.php:155
+msgid ""
+"Set a width, for a screen greater than 992 pixel (for example 940 and not "
+"940px ) "
+msgstr ""
+
+#: core/admin/customize/customize.php:165
+msgid "Screen greater than 1200px"
+msgstr ""
+
+#: core/admin/customize/customize.php:166
+msgid ""
+"Set a width, in px, for a screen greater than 1200 pixel (for example 1170 "
+"and not 1170px ) "
+msgstr ""
+
+#: core/admin/customize/customize.php:178
+msgid "Settings"
+msgstr ""
+
+#: core/admin/customize/customize.php:188
+msgid "Comments"
+msgstr ""
+
+#: core/admin/customize/customize.php:189
+msgid "Do you want to view the comments after articles?"
+msgstr ""
+
+#: core/admin/customize/customize.php:204
+msgid "Styles"
+msgstr ""
+
+#: core/admin/customize/customize.php:214
+msgid "Custom css"
+msgstr ""
+
+#: core/admin/customize/customize.php:215
+msgid "Insert your custom css code."
+msgstr ""
+
+#: core/admin/customize/customize.php:227
+msgid "Layouts"
+msgstr ""
+
+#: core/admin/customize/customize.php:237
+msgid "Home Blog Layout"
+msgstr ""
+
+#: core/admin/customize/customize.php:238
+msgid "If you've set the latest articles, for the homepage, choose a layout."
+msgstr ""
+
+#: core/admin/customize/customize.php:243
+#: core/admin/customize/customize.php:261
+#: core/admin/customize/customize.php:279 core/metaboxes/page.php:38
+#: core/metaboxes/post.php:32 core/metaboxes/product.php:38
+msgid "Full Width"
+msgstr ""
+
+#: core/admin/customize/customize.php:244
+#: core/admin/customize/customize.php:262
+#: core/admin/customize/customize.php:280 core/metaboxes/page.php:39
+#: core/metaboxes/post.php:33 core/metaboxes/product.php:39
+msgid "Left Sidebar"
+msgstr ""
+
+#: core/admin/customize/customize.php:245
+#: core/admin/customize/customize.php:263
+#: core/admin/customize/customize.php:281 core/metaboxes/page.php:40
+#: core/metaboxes/post.php:34 core/metaboxes/product.php:40
+msgid "Right Sidebar"
+msgstr ""
+
+#: core/admin/customize/customize.php:246
+#: core/admin/customize/customize.php:264
+msgid "Masonry"
+msgstr ""
+
+#: core/admin/customize/customize.php:255
+msgid "Category Layout"
+msgstr ""
+
+#: core/admin/customize/customize.php:256
+msgid "Select a layout for category pages."
+msgstr ""
+
+#: core/admin/customize/customize.php:273
+msgid "WooCommerce Category Layout"
+msgstr ""
+
+#: core/admin/customize/customize.php:274
+msgid "Select a layout for the woocommerce categories."
+msgstr ""
+
+#: core/admin/customize/customize.php:292
+msgid "Header"
+msgstr ""
+
+#: core/admin/customize/customize.php:302
+msgid "Custom Logo"
+msgstr ""
+
+#: core/admin/customize/customize.php:303
+msgid "Upload an image as logo"
+msgstr ""
+
+#: core/admin/customize/customize.php:315
+msgid "Footer"
+msgstr ""
+
+#: core/admin/customize/customize.php:325
+msgid "Copyright Text"
+msgstr ""
+
+#: core/admin/customize/customize.php:326
+msgid "Insert your copyright text."
+msgstr ""
+
+#: core/admin/customize/customize.php:336
+msgid "Facebook Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:337
+msgid "Insert Facebook Url (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:347
+msgid "Twitter Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:348
+msgid "Insert Twitter Url (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:358
+msgid "Flickr Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:359
+msgid "Insert Flickr Url (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:369
+msgid "Google Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:370
+msgid "Insert Google Url (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:380
+msgid "Linkedin Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:381
+msgid "Insert Linkedin Url (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:391
+msgid "Myspace Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:392
+msgid "Insert Myspace Url (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:402
+msgid "Pinterest Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:403
+msgid "Insert Pinterest Url (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:413
+msgid "Tumblr Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:414
+msgid "Insert Tumblr Url (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:424
+msgid "Youtube Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:425
+msgid "Insert Youtube Url (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:435
+msgid "Vimeo Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:436
+msgid "Insert Vimeo Url (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:446
+msgid "Skype Url"
+msgstr ""
+
+#: core/admin/customize/customize.php:447
+msgid "Insert Skype ID (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:457
+msgid "Email Address"
+msgstr ""
+
+#: core/admin/customize/customize.php:458
+msgid "Insert Email Address (empty if you want to hide the button)"
+msgstr ""
+
+#: core/admin/customize/customize.php:468
+msgid "Feed Rss Button"
+msgstr ""
+
+#: core/admin/customize/customize.php:469
+msgid "Do you want to display the Feed Rss button?"
+msgstr ""
+
+#: core/admin/customize/customize.php:486
+#: core/admin/customize/customize.php:487
+msgid "Typography"
+msgstr ""
+
+#: core/admin/customize/customize.php:498
+msgid "Logo"
+msgstr ""
+
+#: core/admin/customize/customize.php:508
+#: core/admin/customize/customize.php:531
+#: core/admin/customize/customize.php:554
+msgid "Font size"
+msgstr ""
+
+#: core/admin/customize/customize.php:509
+msgid "Insert a size, for logo font (For example, 60px) "
+msgstr ""
+
+#: core/admin/customize/customize.php:521
+msgid "Menu"
+msgstr ""
+
+#: core/admin/customize/customize.php:532
+msgid "Insert a size, for menu font (For example, 14px) "
+msgstr ""
+
+#: core/admin/customize/customize.php:544
+msgid "Content"
+msgstr ""
+
+#: core/admin/customize/customize.php:555
+msgid "Insert a size, for content font (For example, 14px) "
+msgstr ""
+
+#: core/admin/customize/customize.php:568
+msgid "Headlines"
+msgstr ""
+
+#: core/admin/customize/customize.php:578
+msgid "H1 headline"
+msgstr ""
+
+#: core/admin/customize/customize.php:579
+msgid "Insert a size, for for H1 elements (For example, 24px) "
+msgstr ""
+
+#: core/admin/customize/customize.php:589
+msgid "H2 headline"
+msgstr ""
+
+#: core/admin/customize/customize.php:590
+msgid "Insert a size, for for H2 elements (For example, 22px) "
+msgstr ""
+
+#: core/admin/customize/customize.php:600
+msgid "H3 headline"
+msgstr ""
+
+#: core/admin/customize/customize.php:601
+msgid "Insert a size, for for H3 elements (For example, 20px) "
+msgstr ""
+
+#: core/admin/customize/customize.php:611
+msgid "H4 headline"
+msgstr ""
+
+#: core/admin/customize/customize.php:612
+msgid "Insert a size, for for H4 elements (For example, 18px) "
+msgstr ""
+
+#: core/admin/customize/customize.php:622
+msgid "H5 headline"
+msgstr ""
+
+#: core/admin/customize/customize.php:623
+msgid "Insert a size, for for H5 elements (For example, 16px) "
+msgstr ""
+
+#: core/admin/customize/customize.php:633
+msgid "H6 headline"
+msgstr ""
+
+#: core/admin/customize/customize.php:634
+msgid "Insert a size, for for H6 elements (For example, 14px) "
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:367
+#: core/classes/class-plugin-activation.php:2959
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:368
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2122
+msgid "Required"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2125
+msgid "Recommended"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2141
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2144
+msgid "External Source"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2147
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2164
+msgid "Not Installed"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2168
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2170
+msgid "Active"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2176
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2179
+msgid "Requires Update"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2182
+msgid "Update recommended"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2334
+msgid "Installed version:"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2342
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2354
+msgid "Available version:"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2377
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2391
+msgid "Plugin"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2392
+msgid "Source"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2393
+msgid "Type"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2397
+msgid "Version"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2398
+msgid "Status"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2558
+msgid "Install"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2564
+msgid "Update"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2567
+msgid "Activate"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2598
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2600
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2636
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2638
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:2958
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:3288
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:3290
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:3291
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:3295
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:3296
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:3297
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:3298
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:3301
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:3303
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/classes/class-plugin-activation.php:3304
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/classes/customize.php:34
+msgid "Upgrade to Alhena Premium"
+msgstr ""
+
+#: core/classes/customize.php:306
+msgid ""
+"If you've opened a new support ticket from <strong>WordPress.org</strong>, "
+"please send a reminder to <strong>support@wpinprogress.com</strong>, to get "
+"a faster reply."
+msgstr ""
+
+#: core/classes/customize.php:310
+msgid "Open a new ticket"
+msgstr ""
+
+#: core/classes/customize.php:311
+msgid "Send a reminder"
+msgstr ""
+
+#: core/classes/customize.php:316
+msgid ""
+"If you like this theme and support, <strong>I'd appreciate</strong> any of "
+"the following:"
+msgstr ""
+
+#: core/classes/customize.php:320
+msgid "Rate this Theme"
+msgstr ""
+
+#: core/classes/customize.php:321
+msgid "Like on Facebook"
+msgstr ""
+
+#: core/classes/customize.php:322
+msgid "Subscribe our newsletter"
+msgstr ""
+
+#: core/functions/widgets.php:11
+msgid "This sidebar will be shown at the side of content"
+msgstr ""
+
+#: core/functions/widgets.php:23
+msgid "This sidebar will be shown for the homepage"
+msgstr ""
+
+#: core/functions/widgets.php:35
+msgid "This sidebar will be shown before the content"
+msgstr ""
+
+#: core/functions/widgets.php:47
+msgid "This sidebar will be shown at the side of archive"
+msgstr ""
+
+#: core/functions/widgets.php:59
+msgid "This sidebar will be shown after the content"
+msgstr ""
+
+#: core/functions/woocommerce.php:37 core/functions/woocommerce.php:65
+msgid "View your shopping cart"
+msgstr ""
+
+#: core/main.php:298
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: core/main.php:348
+msgid "Article"
+msgstr ""
+
+#: core/metaboxes/page.php:15 core/metaboxes/page.php:23
+#: core/metaboxes/post.php:15 core/metaboxes/post.php:23
+#: core/metaboxes/product.php:15 core/metaboxes/product.php:23
+msgid "Setting"
+msgstr ""
+
+#: core/metaboxes/page.php:27 core/metaboxes/product.php:27
+msgid "Slogan"
+msgstr ""
+
+#: core/metaboxes/page.php:28 core/metaboxes/product.php:28
+msgid "Insert the slogan of page"
+msgstr ""
+
+#: core/metaboxes/page.php:33 core/metaboxes/post.php:27
+#: core/metaboxes/product.php:33
+msgid "Template"
+msgstr ""
+
+#: core/metaboxes/page.php:34 core/metaboxes/post.php:28
+#: core/metaboxes/product.php:34
+msgid "Select a template for this page"
+msgstr ""
+
+#: core/templates/masonry.php:41
+msgid "Content not found"
+msgstr ""
+
+#: core/templates/masonry.php:43
+msgid "No article found in this blog."
+msgstr ""
+
+#: core/templates/masonry.php:45
+msgid "What can i do?"
+msgstr ""
+
+#: core/templates/masonry.php:47
+msgid "Back to the homepage"
+msgstr ""
+
+#: core/templates/masonry.php:49
+msgid "Make a search, from the below form:"
+msgstr ""
+
+#: core/templates/masonry.php:54 core/templates/masonry.php:55 search.php:54
+msgid "Search"
+msgstr ""
+
+#: core/templates/readmore.php:31
+msgid "Read More"
+msgstr ""
+
+#: footer.php:14
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:16
+msgid "By"
+msgstr ""
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:17
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: layouts/category-default.php:83 layouts/home-default.php:83 sidebar.php:18
+msgid "Calendar"
+msgstr ""
+
+#: page.php:26 single.php:24
+msgid "Pages:"
+msgstr ""
+
+#: search.php:11
+msgid "<span>Search </span> results for"
+msgstr ""
+
+#: search.php:47
+msgid "You can repeat your search with the following form."
+msgstr ""
+
+#: search.php:53
+msgid "Search here"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24
+#: woocommerce/checkout/review-order.php:50
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:78 woocommerce/cart/cart.php:40
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/checkout/review-order.php:97
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during "
+"checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:101
+msgid "Update Shopping Cart"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:102
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:57
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133 woocommerce/checkout/form-coupon.php:31
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:24
+msgid "Have a coupon? "
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:24
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:35
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/global/form-login.php:26
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:30
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:42
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:46
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:22
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:26
+msgid "Track"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:42
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:46
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:51
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:60
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:47
+msgid "You may also like&hellip;"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Categories: "
+#~ msgstr "Categorisa"

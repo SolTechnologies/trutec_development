@@ -1,0 +1,10 @@
+/*
+Theme Name: Mystile Child
+Theme URI: https://localhost:8080
+Description: this is a child theme of mystile
+Author: Alex Gutierrez
+Author URI: http://alexgutierrez.tech
+Template: mystile
+Version: 0.1
+*/
+@import url("../mystile/style.css");

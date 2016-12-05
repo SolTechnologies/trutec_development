@@ -1,0 +1,715 @@
+11-20-2016 @ 02:46:10 - Info: Begin processing payment for order 86 for the amount of 29.99
+11-20-2016 @ 02:46:10 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 2999
+    [description] => trutec_dev - Order 86
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_19HlLHB4KVNQHyRcRHdjjTxj
+)
+
+11-20-2016 @ 02:46:11 - Processing response: stdClass Object
+(
+    [id] => ch_19HlLKB4KVNQHyRcz3CFDN5Z
+    [object] => charge
+    [amount] => 2999
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_19HlLLB4KVNQHyRcQXbDejM6
+            [object] => balance_transaction
+            [amount] => 2999
+            [available_on] => 1480204800
+            [created] => 1479609970
+            [currency] => usd
+            [description] => trutec_dev - Order 86
+            [fee] => 117
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 117
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 2882
+            [source] => ch_19HlLKB4KVNQHyRcz3CFDN5Z
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_19HlLKB4KVNQHyRcz3CFDN5Z
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1479609970
+    [currency] => usd
+    [customer] => 
+    [description] => trutec_dev - Order 86
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_19HlLKB4KVNQHyRcz3CFDN5Z/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_19HlLHB4KVNQHyRcJExVp51N
+            [object] => card
+            [address_city] => 
+            [address_country] => 
+            [address_line1] => 
+            [address_line1_check] => 
+            [address_line2] => 
+            [address_state] => 
+            [address_zip] => 
+            [address_zip_check] => 
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 9
+            [exp_year] => 2019
+            [fingerprint] => OYPMYEcWn3eDCdot
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => gutierrez.lx@gmail.com
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+)
+
+11-20-2016 @ 02:46:11 - Success: Stripe charge complete (Charge ID: ch_19HlLKB4KVNQHyRcz3CFDN5Z)
+11-20-2016 @ 05:24:35 - Info: Begin processing payment for order 94 for the amount of 59.98
+11-20-2016 @ 05:24:35 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 5998
+    [description] => trutec_dev - Order 94
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_19HnoZB4KVNQHyRclirQM4tT
+)
+
+11-20-2016 @ 05:24:35 - Processing response: stdClass Object
+(
+    [id] => ch_19HnodB4KVNQHyRcomaCQ4TK
+    [object] => charge
+    [amount] => 5998
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_19HnodB4KVNQHyRcEG3Sryzy
+            [object] => balance_transaction
+            [amount] => 5998
+            [available_on] => 1480204800
+            [created] => 1479619475
+            [currency] => usd
+            [description] => trutec_dev - Order 94
+            [fee] => 204
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 204
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 5794
+            [source] => ch_19HnodB4KVNQHyRcomaCQ4TK
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_19HnodB4KVNQHyRcomaCQ4TK
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1479619475
+    [currency] => usd
+    [customer] => 
+    [description] => trutec_dev - Order 94
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_19HnodB4KVNQHyRcomaCQ4TK/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_19HnoZB4KVNQHyRcWSDXsCgx
+            [object] => card
+            [address_city] => 
+            [address_country] => 
+            [address_line1] => 
+            [address_line1_check] => 
+            [address_line2] => 
+            [address_state] => 
+            [address_zip] => 
+            [address_zip_check] => 
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 9
+            [exp_year] => 2019
+            [fingerprint] => OYPMYEcWn3eDCdot
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => gutierrez.lx@gmail.com
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+)
+
+11-20-2016 @ 05:24:36 - Success: Stripe charge complete (Charge ID: ch_19HnodB4KVNQHyRcomaCQ4TK)
+11-21-2016 @ 02:43:16 - Info: Begin processing payment for order 100 for the amount of 59.98
+11-21-2016 @ 02:43:16 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 5998
+    [description] => trutec_dev - Order 100
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_19I7m1B4KVNQHyRcYag0bsuf
+)
+
+11-21-2016 @ 02:43:16 - Processing response: stdClass Object
+(
+    [id] => ch_19I7m4B4KVNQHyRcbttpRyFo
+    [object] => charge
+    [amount] => 5998
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_19I7m4B4KVNQHyRcpo0YisE9
+            [object] => balance_transaction
+            [amount] => 5998
+            [available_on] => 1480291200
+            [created] => 1479696196
+            [currency] => usd
+            [description] => trutec_dev - Order 100
+            [fee] => 204
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 204
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 5794
+            [source] => ch_19I7m4B4KVNQHyRcbttpRyFo
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_19I7m4B4KVNQHyRcbttpRyFo
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1479696196
+    [currency] => usd
+    [customer] => 
+    [description] => trutec_dev - Order 100
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_19I7m4B4KVNQHyRcbttpRyFo/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_19I7m1B4KVNQHyRcuVi9FS1M
+            [object] => card
+            [address_city] => 
+            [address_country] => 
+            [address_line1] => 
+            [address_line1_check] => 
+            [address_line2] => 
+            [address_state] => 
+            [address_zip] => 
+            [address_zip_check] => 
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 9
+            [exp_year] => 2019
+            [fingerprint] => OYPMYEcWn3eDCdot
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => gutierrez.lx@gmail.com
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+)
+
+11-21-2016 @ 02:43:17 - Success: Stripe charge complete (Charge ID: ch_19I7m4B4KVNQHyRcbttpRyFo)
+11-22-2016 @ 01:22:39 - Info: Begin processing payment for order 139 for the amount of 29.99
+11-22-2016 @ 01:22:39 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 2999
+    [description] => trutec_dev - Order 139
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_19ISzYB4KVNQHyRcrtVADNJ1
+)
+
+11-22-2016 @ 01:22:39 - Processing response: stdClass Object
+(
+    [id] => ch_19ISzbB4KVNQHyRc90kN4Bcq
+    [object] => charge
+    [amount] => 2999
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_19ISzbB4KVNQHyRcrRCviZMK
+            [object] => balance_transaction
+            [amount] => 2999
+            [available_on] => 1480377600
+            [created] => 1479777759
+            [currency] => usd
+            [description] => trutec_dev - Order 139
+            [fee] => 117
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 117
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 2882
+            [source] => ch_19ISzbB4KVNQHyRc90kN4Bcq
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_19ISzbB4KVNQHyRc90kN4Bcq
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1479777759
+    [currency] => usd
+    [customer] => 
+    [description] => trutec_dev - Order 139
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_19ISzbB4KVNQHyRc90kN4Bcq/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_19ISzYB4KVNQHyRc6B7ymzLF
+            [object] => card
+            [address_city] => 
+            [address_country] => 
+            [address_line1] => 
+            [address_line1_check] => 
+            [address_line2] => 
+            [address_state] => 
+            [address_zip] => 
+            [address_zip_check] => 
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 9
+            [exp_year] => 2019
+            [fingerprint] => OYPMYEcWn3eDCdot
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => gutierrez.lx@gmail.com
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+)
+
+11-22-2016 @ 01:22:40 - Success: Stripe charge complete (Charge ID: ch_19ISzbB4KVNQHyRc90kN4Bcq)
+11-28-2016 @ 19:14:22 - Info: Begin processing payment for order 154 for the amount of 59.98
+11-28-2016 @ 19:14:22 - charges request: Array
+(
+    [currency] => usd
+    [amount] => 5998
+    [description] => trutec_dev - Order 154
+    [capture] => true
+    [expand[]] => balance_transaction
+    [source] => tok_19KuZzB4KVNQHyRcg9AhjhhV
+)
+
+11-28-2016 @ 19:14:22 - Processing response: stdClass Object
+(
+    [id] => ch_19Kua2B4KVNQHyRcHj9CV1WJ
+    [object] => charge
+    [amount] => 5998
+    [amount_refunded] => 0
+    [application] => 
+    [application_fee] => 
+    [balance_transaction] => stdClass Object
+        (
+            [id] => txn_19Kua2B4KVNQHyRc71TvngzY
+            [object] => balance_transaction
+            [amount] => 5998
+            [available_on] => 1480896000
+            [created] => 1480360462
+            [currency] => usd
+            [description] => trutec_dev - Order 154
+            [fee] => 204
+            [fee_details] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [amount] => 204
+                            [application] => 
+                            [currency] => usd
+                            [description] => Stripe processing fees
+                            [type] => stripe_fee
+                        )
+
+                )
+
+            [net] => 5794
+            [source] => ch_19Kua2B4KVNQHyRcHj9CV1WJ
+            [sourced_transfers] => stdClass Object
+                (
+                    [object] => list
+                    [data] => Array
+                        (
+                        )
+
+                    [has_more] => 
+                    [total_count] => 0
+                    [url] => /v1/transfers?source_transaction=ch_19Kua2B4KVNQHyRcHj9CV1WJ
+                )
+
+            [status] => pending
+            [type] => charge
+        )
+
+    [captured] => 1
+    [created] => 1480360462
+    [currency] => usd
+    [customer] => 
+    [description] => trutec_dev - Order 154
+    [destination] => 
+    [dispute] => 
+    [failure_code] => 
+    [failure_message] => 
+    [fraud_details] => stdClass Object
+        (
+        )
+
+    [invoice] => 
+    [livemode] => 
+    [metadata] => stdClass Object
+        (
+        )
+
+    [order] => 
+    [outcome] => stdClass Object
+        (
+            [network_status] => approved_by_network
+            [reason] => 
+            [risk_level] => normal
+            [seller_message] => Payment complete.
+            [type] => authorized
+        )
+
+    [paid] => 1
+    [receipt_email] => 
+    [receipt_number] => 
+    [refunded] => 
+    [refunds] => stdClass Object
+        (
+            [object] => list
+            [data] => Array
+                (
+                )
+
+            [has_more] => 
+            [total_count] => 0
+            [url] => /v1/charges/ch_19Kua2B4KVNQHyRcHj9CV1WJ/refunds
+        )
+
+    [review] => 
+    [shipping] => 
+    [source] => stdClass Object
+        (
+            [id] => card_19KuZyB4KVNQHyRcR2UEBEtb
+            [object] => card
+            [address_city] => 
+            [address_country] => 
+            [address_line1] => 
+            [address_line1_check] => 
+            [address_line2] => 
+            [address_state] => 
+            [address_zip] => 
+            [address_zip_check] => 
+            [brand] => Visa
+            [country] => US
+            [customer] => 
+            [cvc_check] => pass
+            [dynamic_last4] => 
+            [exp_month] => 9
+            [exp_year] => 2019
+            [fingerprint] => OYPMYEcWn3eDCdot
+            [funding] => credit
+            [last4] => 4242
+            [metadata] => stdClass Object
+                (
+                )
+
+            [name] => gutierrez.lx@gmail.com
+            [tokenization_method] => 
+        )
+
+    [source_transfer] => 
+    [statement_descriptor] => 
+    [status] => succeeded
+)
+
+11-28-2016 @ 19:14:23 - Success: Stripe charge complete (Charge ID: ch_19Kua2B4KVNQHyRcHj9CV1WJ)
